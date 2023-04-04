@@ -2,9 +2,9 @@
 
 ## Description
 This is a self-guided tutorial to help folks learn how to use GitHub Copilot. In this project you will find: 
-* a `main.py` file with no contents
+* a `.github/workflows/pr-comment-workflow.yml` file with no contents
 * a devcontainer that installs CodeTour and GitHub Copilot when the Codespace is created
-* a CodeTour to guide the developer through using GitHub Copilot to develop a rock, paper, scissors game. 
+* a CodeTour to guide the developer through using GitHub Copilot to develop a GitHub Action workflow file. 
 
 ## To complete this tutorial, you will need:
 * Access to [GitHub Copilot](https://github.com/features/copilot)
