@@ -7,22 +7,22 @@
       "description": "Hi there! this is a guided tour to help you learn GitHub Copilot. We will build a GitHub Action workflow that welcomes a new user to the repo when they add their first issue.\n\nPress `Next` to to get started 👇"
     },
     {
-      "file": "main.py",
+      "file": ".github/workflows/welcome-comment-new-user-workflow.yml",
       "line": 1,
       "description": "Let's give GitHub Copilot some context about what we're building. Let's start by adding the following comment to the file line of the .github/workflows/welcome-comment-new-user-workflow.yml file. \n```\n# create a github action workflow to welcome new users to the repo by commenting on their first issue\n```\nPress `Next` to to get continue 👇"
     },
     {
-      "file": "main.py",
+      "file": ".github/workflows/welcome-comment-new-user-workflow.yml",
       "line": 2,
       "description": "Now, let's prompt Copilot to create the YAML code. Add this comment on a new line.\n```\nname: Welcome new users\n```\nPress enter to create a new line and press __TAB__ to accept Copilot's suggestion. With YAML syntax you may need to add two new lines to get the next prompt. \n\nPress __Next__ to to get continue 👇"
     },
     {
-      "file": "main.py",
+      "file": ".github/workflows/welcome-comment-new-user-workflow.yml",
       "line": 4,
       "description": "Now, let's prompt Copilot to create the YAML code. Add this comment on a new line.\n```\non:\n```\nPress enter to create a new line and press __TAB__ to accept Copilot's suggestion. With YAML syntax you may need to add two new lines to get the next prompt. \n\nPress __Next__ to to get continue 👇"
     },
     {
-      "file": "main.py",
+      "file": ".github/workflows/welcome-comment-new-user-workflow.yml",
       "line": 64,
       "description": "Now, let's prompt Copilot to create the YAML code. Add this comment on a new line.\n```\njobs:\n```\nPress enter to create a new line and press __TAB__ to accept Copilot's suggestion. With YAML syntax you may need to add two new lines to get the next prompt. \n\nPress __Next__ to to get continue 👇"
     },
