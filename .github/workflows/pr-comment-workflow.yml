@@ -1,0 +1,20 @@
+# create a github actions workflow file to add a comment to a PR
+
+name: PR Comment Workflow
+
+on:
+  pull_request:
+    types: [opened]
+
+jobs:
+  pr_comment:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Add comment to PR
+        uses: peter-evans/create-or-update-comment@v1
+        with:
+          issue-number: ${{ github.event.pull_request.number }}
+          body: |
+            This is a comment from a GitHub Actions workflow!
+            This is a second line of the comment.
