@@ -28,7 +28,7 @@
     },
     {
       "title": "Try it out!",
-      "description": "Let's run the action to see if it works. Click the follow hyperlink to execute your main.py file. It should start the rock, paper, scissors game. \n\n>> python3 main.py\n\nMission complete! You've used GitHub Copilot to create a rock, paper, scissor game"
+      "description": "Let's run the action to see if it works. Nagivate to Setting, Actions, and click on General. Then select the 'Read and write permission' and 'Save'. Now navigate to issues and create an issue, the action should run and after a minute or two you will recieve a comment on the issue. To check the progress of the Action, navigate to the repo Actions tab."
     }
   ],
   "ref": "main"
