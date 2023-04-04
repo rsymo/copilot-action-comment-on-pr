@@ -18,7 +18,7 @@
     },
     {
       "file": ".github/workflows/welcome-comment-new-user-workflow.yml",
-      "line": 6,
+      "line": 10,
       "description": "Now, let's prompt Copilot to create the YAML code. Add this comment on a new line.\n```\non:\n```\nPress enter to create a new line and press __TAB__ to accept Copilot's suggestion. With YAML syntax you may need to add two new lines to get the next prompt. \n\nPress __Next__ to to get continue 👇"
     },
     {
